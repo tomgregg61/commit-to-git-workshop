@@ -1,5 +1,7 @@
 # SCS Commit To Git Workshop
 
+![Alt text](scs_git_banner.png "This is some image...")
+
 Welcome to the 'Commit to Git' Workshop! This repository is designed to teach you the basics of Git and GitHub. Follow the tasks below to practice forking, branching, merging, rebasing, creating pull requests, and more.
 
 ## How to Use This Repository
