@@ -1,3 +1,5 @@
 This is the second example file.
 
+Editing this file as part of Task 2.
+
 Edit this file to practice branching and pushing changes in Task 2.
