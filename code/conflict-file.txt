@@ -1,3 +1,5 @@
 This file is used for merge conflicts.
 
+Feature branch change
+
 In Task 3, you’ll modify this file both on `main` and on `feature-branch` to create a conflict.
